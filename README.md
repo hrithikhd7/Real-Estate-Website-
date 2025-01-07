@@ -1,7 +1,7 @@
 
 **GitHub Link:** [Hrithikhd7](https://github.com/hrithikhd7)
 
-**Project Live Link:** [Live Link](https://assignment-9-1e506.web.app/)
+**Project Live Link:** [Live Link](https://realestatefinalproject-a2d3e.web.app/)
 
 **NPM Packages Used for Challenge Section:**
 
