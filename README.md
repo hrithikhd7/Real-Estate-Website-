@@ -1,8 +1,5 @@
-# PROGRAMMING HERO ASSIGNMENT-9
 
 **GitHub Link:** [Hrithikhd7](https://github.com/hrithikhd7)
-
-**Project GitHub Repository:** [Real Estate Project](https://github.com/programming-hero-web-course-4/b9a9-real-estate-hrithikhd7)
 
 **Project Live Link:** [Live Link](https://assignment-9-1e506.web.app/)
 
