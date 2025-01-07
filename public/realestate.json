@@ -1,0 +1,212 @@
+[
+  {
+    "image": "https://i.ibb.co/XYbkkWn/1-6.jpg",
+    "estate_title": "Luxury Beachfront Villa",
+    "id": 1,
+    "segment_name": "Residential",
+    "description": "Exquisite villa with stunning ocean views and direct beach access.",
+    "description_detail": "Step into the epitome of coastal luxury with this exquisite beachfront villa in Malibu, California. With its stunning ocean views and direct beach access, this property offers a lifestyle of unparalleled relaxation and indulgence. The spacious interior features elegant design elements and top-of-the-line finishes throughout, creating a serene and inviting atmosphere. Enjoy seamless indoor-outdoor living with expansive patio spaces overlooking the Pacific Ocean, perfect for entertaining or simply unwinding in the sea breeze. With five bedrooms, six bathrooms, and a host of luxurious amenities, this beachfront villa is truly a coastal paradise.",
+    "price": "$5,000,000",
+    "status": "sale",
+    "area": "4,500 sq ft",
+    "location": "Malibu, California",
+    "facilities": ["Beachfront", "Swimming Pool", "Private Garden"],
+    "additional_info": {
+      "bedrooms": 5,
+      "bathrooms": 6,
+      "garage": 2
+    },
+    "view_property_button": "View Property",
+    "agent_name": "John Doe",
+    "agent_detail": "Experienced real estate agent specializing in luxury beachfront properties."
+  },
+  {
+    "image": "https://i.ibb.co/t2phZZR/1-9.jpg",
+    "estate_title": "Penthouse in the Sky",
+    "id": 2,
+    "segment_name": "Residential",
+    "description": "Elegant penthouse offering panoramic city views and luxurious amenities.",
+    "description_detail": "Experience urban luxury at its finest with this stunning penthouse in the heart of New York City. Perched high above the bustling streets below, this residence offers panoramic city views that stretch as far as the eye can see. Step inside to discover a meticulously designed interior adorned with luxurious finishes and state-of-the-art features. The spacious floor plan includes three bedrooms, four bathrooms, and a private terrace perfect for enjoying the city skyline. With amenities such as a concierge service and a fitness center, this penthouse provides the ultimate urban retreat for the discerning buyer.",
+    "price": "$3,500,000",
+    "status": "sale",
+    "area": "3,000 sq ft",
+    "location": "New York City, New York",
+    "facilities": ["Private Terrace", "Concierge Service", "Fitness Center"],
+    "additional_info": {
+      "bedrooms": 3,
+      "bathrooms": 4,
+      "floor": 50
+    },
+    "view_property_button": "View Property",
+    "agent_name": "Jane Smith",
+    "agent_detail": "Top real estate agent with extensive knowledge of New York City's luxury market."
+  },
+  {
+    "image": "https://i.ibb.co/JC2nwYH/villa.jpg",
+    "estate_title": "Mansion in Beverly Hills",
+    "id": 3,
+    "segment_name": "Residential",
+    "description": "Magnificent mansion nestled in the exclusive neighborhood of Beverly Hills.",
+    "description_detail": "Indulge in the epitome of luxury living with this magnificent mansion nestled in the exclusive neighborhood of Beverly Hills, California. Boasting grandeur and elegance at every turn, this sprawling estate offers unparalleled sophistication and style. From the moment you enter the gated grounds, you'll be captivated by the manicured gardens, impressive architecture, and impeccable craftsmanship throughout. The interior exudes opulence with spacious living areas, a gourmet kitchen, a home theater, and a wine cellar. With eight bedrooms, ten bathrooms, and amenities such as a tennis court and a pool, this Beverly Hills mansion offers the ultimate in luxury living.",
+    "price": "$12,000,000",
+    "status": "sale",
+    "area": "10,000 sq ft",
+    "location": "Beverly Hills, California",
+    "facilities": ["Home Theater", "Tennis Court", "Wine Cellar"],
+    "additional_info": {
+      "bedrooms": 8,
+      "bathrooms": 10,
+      "lot_size": "1 acre"
+    },
+    "view_property_button": "View Property",
+    "agent_name": "Michael Johnson",
+    "agent_detail": "Luxury real estate expert with a focus on Beverly Hills properties."
+  },
+  {
+    "image": "https://i.ibb.co/GRX36XW/1-7.jpg",
+    "estate_title": "Private Island Retreat",
+    "id": 4,
+    "segment_name": "Residential",
+    "description": "Exclusive island retreat with luxurious amenities and pristine natural surroundings.",
+    "description_detail": "Escape to your own private paradise with this exclusive island retreat in the Caribbean. Surrounded by pristine turquoise waters and lush tropical landscapes, this secluded estate offers the ultimate luxury getaway. The property features a main residence with twelve bedrooms, fourteen bathrooms, and three guest houses for hosting friends and family in style. Enjoy a range of resort-like amenities, including private beaches, a spa, and a helipad for convenient access. Whether you're lounging by the infinity pool or exploring the underwater wonders of the Caribbean Sea, this private island retreat promises an unforgettable escape.",
+    "price": "$20,000,000",
+    "status": "sale",
+    "area": "Private Island",
+    "location": "Caribbean",
+    "facilities": ["Private Beaches", "Spa", "Helipad"],
+    "additional_info": {
+      "bedrooms": 12,
+      "bathrooms": 14,
+      "guest_houses": 3
+    },
+    "view_property_button": "View Property",
+    "agent_name": "Emily Davis",
+    "agent_detail": "Specialist in luxury island properties with a passion for tropical retreats."
+  },
+  {
+    "image": "https://i.ibb.co/1K50RzD/resort.jpg",
+    "estate_title": "Seaside Mansion",
+    "id": 5,
+    "segment_name": "Residential",
+    "description": "Grand mansion overlooking the sea with luxurious amenities and expansive grounds.",
+    "description_detail": "Embrace coastal living at its finest with this grand mansion overlooking the sea in Miami Beach, Florida. Nestled along the pristine shoreline, this exquisite residence offers breathtaking ocean views and a wealth of luxurious amenities. The expansive grounds feature lush landscaping, an infinity pool, and an oceanfront terrace perfect for outdoor entertaining. Inside, the mansion boasts six bedrooms, eight bathrooms, and a guest suite for hosting visitors in style. From the gourmet kitchen to the home gym, every detail has been carefully curated to ensure a life of luxury and comfort in this seaside oasis.",
+    "price": "$8,500,000",
+    "status": "sale",
+    "area": "7,000 sq ft",
+    "location": "Miami Beach, Florida",
+    "facilities": ["Oceanfront Terrace", "Infinity Pool", "Home Gym"],
+    "additional_info": {
+      "bedrooms": 6,
+      "bathrooms": 8,
+      "guest_suite": true
+    },
+    "view_property_button": "View Property",
+    "agent_name": "David Brown",
+    "agent_detail": "Expert in coastal properties with a deep understanding of Miami Beach real estate."
+  },
+  {
+    "image": "https://i.ibb.co/tKgt8hK/1-5.jpg",
+    "estate_title": "Mountain Retreat",
+    "id": 6,
+    "segment_name": "Residential",
+    "description": "Spectacular retreat nestled in the mountains offering serene views and tranquility.",
+    "description_detail": "Discover serenity and seclusion in this spectacular mountain retreat nestled in Aspen, Colorado. Surrounded by towering peaks and pristine wilderness, this property offers unparalleled views and tranquility. Step inside to find a warm and inviting interior featuring rustic yet elegant design elements. With four bedrooms, five bathrooms, and expansive living spaces, this retreat provides ample room for relaxation and entertainment. Whether you're enjoying the ski-in/ski-out access in the winter or hiking through wildflower meadows in the summer, this mountain retreat offers an idyllic escape from the hustle and bustle of everyday life.",
+    "price": "$2,500,000",
+    "status": "sale",
+    "area": "5,000 sq ft",
+    "location": "Aspen, Colorado",
+    "facilities": ["Ski-in/Ski-out Access", "Hot Tub", "Fire Pit"],
+    "additional_info": {
+      "bedrooms": 4,
+      "bathrooms": 5,
+      "lot_size": "2 acres"
+    },
+    "view_property_button": "View Property",
+    "agent_name": "Sarah Wilson",
+    "agent_detail": "Mountain property specialist with extensive experience in Aspen real estate."
+  },
+  {
+    "image": "https://i.ibb.co/bbnBD3c/1-4.jpg",
+    "estate_title": "Lakefront Retreat",
+    "id": 7,
+    "segment_name": "Residential",
+    "description": "Charming lakeside retreat with cozy interiors and panoramic lake views.",
+    "description_detail": "Escape to the tranquility of lakefront living with this charming retreat on the shores of Lake Tahoe, Nevada. Nestled among towering pine trees, this cozy lakeside home offers breathtaking panoramic views of the crystal-clear waters and surrounding mountains. The inviting interior features rustic yet comfortable furnishings, creating a warm and welcoming atmosphere for relaxation. Outside, the property boasts a private boat dock, outdoor kitchen, and game room, providing endless opportunities for outdoor recreation and entertainment. Whether you're enjoying water sports on the lake or cozying up by the fire on a snowy evening, this lakefront retreat is the perfect place to unwind and enjoy the beauty of nature.",
+    "price": "$1,800,000",
+    "status": "sale",
+    "area": "3,500 sq ft",
+    "location": "Lake Tahoe, Nevada",
+    "facilities": ["Boat Dock", "Outdoor Kitchen", "Game Room"],
+    "additional_info": {
+      "bedrooms": 3,
+      "bathrooms": 4,
+      "dock_space": "2 boats"
+    },
+    "view_property_button": "View Property",
+    "agent_name": "Chris Martinez",
+    "agent_detail": "Lakefront property expert with a passion for Lake Tahoe real estate."
+  },
+  {
+    "image": "https://i.ibb.co/D5kq54b/1-3.jpg",
+    "estate_title": "Country Estate",
+    "id": 8,
+    "segment_name": "Residential",
+    "description": "Elegant country estate with sprawling grounds and luxurious amenities.",
+    "description_detail": "Experience the epitome of country living with this elegant estate in Saratoga Springs, New York. Situated on expansive grounds dotted with mature trees and manicured gardens, this property offers privacy and tranquility in a picturesque setting. The stately main residence features spacious living areas, a gourmet kitchen, and luxurious finishes throughout. With nine bedrooms, ten bathrooms, and amenities such as a tennis court, guest house, and greenhouse, this estate is perfect for entertaining guests or simply enjoying the peace and serenity of country life. Whether you're riding horses in the paddocks or relaxing in the sun-drenched conservatory, this country estate offers a lifestyle of refined luxury and elegance.",
+    "price": "$6,500,000",
+    "status": "sale",
+    "area": "15,000 sq ft",
+    "location": "Saratoga Springs, New York",
+    "facilities": ["Tennis Court", "Guest House", "Greenhouse"],
+    "additional_info": {
+      "bedrooms": 9,
+      "bathrooms": 10,
+      "horse_stables": true
+    },
+    "view_property_button": "View Property",
+    "agent_name": "Laura White",
+    "agent_detail": "Country estate specialist with a deep knowledge of Saratoga Springs properties."
+  },
+  {
+    "image": "https://i.ibb.co/RNKbM8L/1-2.jpg",
+    "estate_title": "Urban Oasis",
+    "id": 9,
+    "segment_name": "Residential",
+    "description": "Stylish urban oasis in the heart of the city with modern design and amenities.",
+    "description_detail": "Discover the perfect blend of style and sophistication with this stylish urban oasis in San Francisco, California. Located in the heart of the city, this residence offers a contemporary retreat from the hustle and bustle of urban life. The sleek and modern interior features high-end finishes and smart home technology, creating a space that's as functional as it is stylish. With two bedrooms, three bathrooms, and amenities such as a rooftop deck and home office, this urban oasis provides the ideal environment for both work and relaxation. Whether you're enjoying cocktails with friends on the rooftop or unwinding in the luxurious master suite, this San Francisco residence offers a lifestyle of modern luxury and convenience.",
+    "price": "$1,200,000",
+    "status": "sale",
+    "area": "2,200 sq ft",
+    "location": "San Francisco, California",
+    "facilities": ["Rooftop Deck", "Home Office", "Smart Home Features"],
+    "additional_info": {
+      "bedrooms": 2,
+      "bathrooms": 3,
+      "parking": "1 car garage"
+    },
+    "view_property_button": "View Property",
+    "agent_name": "Kevin Lee",
+    "agent_detail": "Urban property expert with a focus on San Francisco's luxury market."
+  },
+  {
+    "image": "https://i.ibb.co/K7z1RJ2/1-1.jpg",
+    "estate_title": "Coastal Retreat",
+    "id": 10,
+    "segment_name": "Residential",
+    "description": "Relaxing coastal retreat with panoramic ocean views and beach access.",
+    "description_detail": "Escape to the serene beauty of coastal living with this relaxing retreat in Santa Barbara, California. Perched high above the cliffs overlooking the Pacific Ocean, this coastal home offers panoramic views of the sparkling waters and sandy beaches below. Step inside to find a light-filled interior adorned with coastal-inspired decor and luxurious finishes. With four bedrooms, four bathrooms, and amenities such as an ocean view deck and outdoor shower, this retreat provides the perfect blend of indoor-outdoor living. Whether you're sipping wine on the deck at sunset or strolling along the beach at sunrise, this coastal retreat offers a lifestyle of tranquility and relaxation.",
+    "price": "$3,200,000",
+    "status": "sale",
+    "area": "2,800 sq ft",
+    "location": "Santa Barbara, California",
+    "facilities": ["Ocean View Deck", "Private Beach Access", "Outdoor Shower"],
+    "additional_info": {
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "fireplace": true
+    },
+    "view_property_button": "View Property",
+    "agent_name": "Sophia Green",
+    "agent_detail": "Coastal property specialist with a passion for Santa Barbara real estate."
+  }
+]
